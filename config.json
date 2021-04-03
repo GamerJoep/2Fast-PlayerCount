@@ -1,0 +1,8 @@
+{
+    "token": "YOUR-TOKEN",
+    "startupMessage": "Bot started",
+    "serverIp": "0.0.0.0",
+    "loopTime": "1000",
+    "statusHeader": "2Fast",
+    "statusFooter": "players"
+}
